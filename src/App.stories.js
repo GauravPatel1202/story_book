@@ -4,4 +4,5 @@ export default {
   title: 'App',
   component: App,
 };
-export const app = ()=><App/>
+export const appdrack = ()=><App drack/>
+export const appLight= ()=><App light/>
